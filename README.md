@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Привет, я Вадим
 
-<!--
-**ewaw01/ewaw01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## О себе
+Я начинающий backend-разработчик на Java. Изучаю язык 2 года, до этого пробовал другие языки.
+Ищу работу на позицию Junior Java-разработчика. Готов учиться и развиваться дальше.
 
-Here are some ideas to get you started:
+## 🛠️ Что я умею
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend:**
+- Java 21, Spring Boot, Spring Data JPA, Spring Web MVC
+- REST API, пагинация, фильтрация, валидация
+- Транзакции (@Transactional), обработка ошибок (@ControllerAdvice)
+
+**Базы данных:**
+- PostgreSQL, H2, SQL
+
+**Тестирование:**
+- JUnit 5, Mockito, Spring Boot Test (@DataJpaTest, @WebMvcTest)
+
+**Инструменты:**
+- Maven, Git, GitHub, Docker, Postman, IntelliJ IDEA
+
+## 📂 Мои проекты
+
+| Проект | Описание | Технологии |
+|--------|----------|------------|
+| [🌤️ Weather-application](https://github.com/ewaw01/Weather-application) | REST API для погоды. Кэширование, Many-to-Many, пагинация, тесты (~75% покрытия) | Spring Boot, JPA, PostgreSQL, JUnit, Mockito |
+| [📚 Library-system](https://github.com/ewaw01/Library-system) | Управление библиотекой. CRUD, пагинация, фильтрация, веб-интерфейс | Spring Boot, Thymeleaf, JPA, PostgreSQL |
+| [📋 Task-management-system](https://github.com/ewaw01/Task-management-system) | Система задач. Статусы (CREATED, IN_PROGRESS, DONE), приоритеты, ограничение 3 задач в работе | Spring Boot, JPA, PostgreSQL |
+| [🏨 Reservation-system](https://github.com/ewaw01/Reservation-system) | Бронирование комнат. Проверка пересечения дат, статусы (PENDING, APPROVED, CANCELLED) | Spring Boot, JPA, PostgreSQL |
+| [🎮 JavaFX-Game](https://github.com/ewaw01/JavaFX-Game) | 2D платформер. Анимация фона, управление, пауза, обработка столкновений | JavaFX, AnimationTimer |
+
+## 📫 Контакты
+- GitHub: [github.com/ewaw01](https://github.com/ewaw01)
+- Telegram: [@voin_drakona2000](https://t.me/voin_drakona2000)
