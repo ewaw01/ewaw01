@@ -29,7 +29,7 @@
 
 | Проект | Описание | Технологии |
 |--------|----------|------------|
-| [🌤️ Weather-application](https://github.com/ewaw01/weather-app) | REST API для погоды. Кэширование, Many-to-Many, пагинация, JWT Security, тесты (~75% покрытия) | Spring Boot, Spring Security, JWT, JPA, PostgreSQL, JUnit, Mockito |
+| [🌤️ Weather-app](https://github.com/ewaw01/weather-app) | REST API для погоды. Кэширование, Many-to-Many, пагинация, JWT Security, тесты (~75% покрытия) | Spring Boot, Spring Security, JWT, JPA, PostgreSQL, JUnit, Mockito |
 | [📚 Library-system](https://github.com/ewaw01/Library-system) | Управление библиотекой. CRUD, пагинация, фильтрация, веб-интерфейс | Spring Boot, Thymeleaf, JPA, PostgreSQL |
 | [📋 Task-management-system](https://github.com/ewaw01/Task-management-system) | Система задач. Статусы (CREATED, IN_PROGRESS, DONE), приоритеты, ограничение 3 задач в работе | Spring Boot, JPA, PostgreSQL |
 | [🏨 Reservation-system](https://github.com/ewaw01/Reservation-system) | Бронирование комнат. Проверка пересечения дат, статусы (PENDING, APPROVED, CANCELLED) | Spring Boot, JPA, PostgreSQL |
