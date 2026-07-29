@@ -2,8 +2,8 @@
 
 ## О себе
 
-Я Java-разработчик. Изучаю язык второй год, до этого пробовал другие языки.  
-Ищу работу на позицию **Junior Java-разработчика**. Готов учиться и развиваться дальше.
+Я Java-разработчик. Изучаю язык второй-третий год, до этого пробовал другие языки.  
+Ищу работу на позицию **Junior Java-разработчика**. Готов учиться и развиваться дальше, работать в команде.
 
 ---
 
@@ -22,7 +22,7 @@
 - JUnit 5, Mockito, Spring Boot Test (`@DataJpaTest`, `@WebMvcTest`, `@SpringBootTest`)
 
 **Инструменты:**
-- Maven, Git, GitHub, Docker, Docker Compose, Postman, IntelliJ IDEA
+- Maven, Git, GitHub, Docker, Docker Compose, Kafka, Postman, IntelliJ IDEA
 
 ---
 
@@ -42,4 +42,4 @@
 ## 📫 Контакты
 
 - GitHub: [github.com/ewaw01](https://github.com/ewaw01)
-- Telegram: [@voin_drakona2000](https://t.me/voin_drakona2000)
+- Telegram: [@ewawk948](https://t.me/ewawk948)
