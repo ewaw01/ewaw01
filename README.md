@@ -42,4 +42,3 @@
 ## 📫 Контакты
 
 - GitHub: [github.com/ewaw01](https://github.com/ewaw01)
-- Telegram: [@ewawk948](https://t.me/ewawk948)
